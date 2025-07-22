@@ -1,3 +1,3 @@
 # Buzzer
-Buzzer is a small speaker that sent it tone which is at a frequency between high and low.
+Buzzer is a device that produce noise. The main function of this is to convert the signal from audio to sound.
 ![buzzer](./buzzerpic.jpg)
