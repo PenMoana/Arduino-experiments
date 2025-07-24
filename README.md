@@ -7,3 +7,8 @@ Tilt sensor is like a switch that can detect basic motion.
 the current flow when tilt is upright. But if it tilted the current doesn't flow.
 
 ![tilt](./tilt.jpg)
+
+# Light dependent resistor
+Light dependent resistor is a type of resistor that changes its resistance based on the amount of light
+![light dependent resistor](./lightup.jpg)
+![light dependent resistor](./notlightup.jpg)
